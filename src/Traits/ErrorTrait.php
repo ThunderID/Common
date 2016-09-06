@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Models\Traits;
+namespace Thunderlab\Common\Traits;
 
 use Illuminate\Support\MessageBag;
 
