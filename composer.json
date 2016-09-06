@@ -9,5 +9,10 @@
             "name": "Erick Mo",
             "email": "mo@thunderlab.id"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
 }
