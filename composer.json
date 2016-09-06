@@ -1,0 +1,13 @@
+{
+    "name": "thunderlab/common",
+    "description": "Common libraries for thunderlab projects",
+    "require": {
+        "illuminate/support": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Erick Mo",
+            "email": "mo@thunderlab.id"
+        }
+    ]
+}
