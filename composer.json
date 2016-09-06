@@ -2,7 +2,7 @@
     "name": "thunderlab/common",
     "description": "Common libraries for thunderlab projects",
     "require": {
-        "illuminate/support": "^5.3"
+        "illuminate/support": "^5.2"
     },
     "authors": [
         {
